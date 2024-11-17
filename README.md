@@ -1,2 +1,2 @@
-# Udemig-Akademi
+# Udemig-Academy
 
